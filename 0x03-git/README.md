@@ -1,2 +1,1 @@
-#!/bin/bash
-Git file
+Collaboration: be up to date
